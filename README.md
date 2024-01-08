@@ -15,3 +15,7 @@ I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). 
 - **Version Control:** Git, GitHub
 - **Deployment:** Heroku, Netlify
 - **Other:** RESTful APIs, Postman, Redux
+
+## 💻 My Tech Stack:
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,firebase,nextjs,typescript,bootstrap,tailwindcss&perline=3)](https://skillicons.dev)
