@@ -5,7 +5,7 @@ I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). 
 - 🔭 I’m currently working on my personal project and preparation for developer jobs
 - 🌱 I’m currently learning Next.Js, Docker, AWS
 - 💬 Ask me about emonhowlader1397@gmail.com
-- 📫 How to reach me: [...](https://devemonmahdi.netlify.app/)
+- 📫 How to reach me: [Portfolio](https://devemonmahdi.netlify.app/)
 
 ## 🔧 Technologies & Tools
 
