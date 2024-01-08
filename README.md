@@ -7,6 +7,14 @@ I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). 
 - 💬 Ask me about emonhowlader1397@gmail.com
 - 📫 How to reach me: [Portfolio](https://devemonmahdi.netlify.app/)
 
+<div align="center">
+
+[![Portfolio](https://skillicons.dev/icons?i=ros)](https://devemonmahdi.netlify.app/) &nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/emon-howlader-dev97/) &nbsp;
+[![Facebook](https://skillicons.dev/icons?i=facebook)](https://www.facebook.com/mdemon.mahdi7700)
+
+</div>
+
 ## 🔧 Technologies & Tools
 
 - **Frontend:** React.js, HTML, CSS, JavaScript
