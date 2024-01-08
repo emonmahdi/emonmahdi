@@ -19,3 +19,10 @@ I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). 
 ## 💻 My Tech Stack:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,react,nodejs,expressjs,mongodb,firebase,nextjs,typescript,bootstrap,tailwindcss)](https://skillicons.dev)
+
+## 🏆 My Stats:
+
+<p>
+    <img height=175 alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emonmahdi&show_icons=true&count_private=true&theme=highcontrast" />&nbsp;&nbsp;
+    <img height=175 alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emonmahdi&layout=compact&theme=radical" />&nbsp;&nbsp;
+</p>
