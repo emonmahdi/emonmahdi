@@ -1,9 +1,9 @@
 # Hi there 👋, I'm Md Emon Mahdi!
 
-I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). Passionate about creating innovative solutions and contributing to the world of technology.
+I'm a Full Stack Developer with expertise in the MERN stack, with a strong focus on Frontend Development. I’m passionate about building innovative solutions and making meaningful contributions to the world of technology.
 
-- 🔭 I’m currently working on my personal project and preparation for developer jobs
-- 🌱 I’m currently learning Next.Js, Docker, AWS
+- 🔭 I’m currently working as a Frontend Developer at Freelance IT Software Solution, where I specialize in building all types of website frontends.
+- 🌱 I’m actively learning Next.js, Docker, and AWS to expand my technical skill set.
 - 💬 Ask me about emonhowlader1397@gmail.com
 - 📫 How to reach me: [Portfolio](https://devemonmahdi.netlify.app/)
 
@@ -17,12 +17,12 @@ I'm a Full Stack Developer with expertise in the MERN stack (Frontend Focused). 
 
 ## 🔧 Technologies & Tools
 
-- **Frontend:** React.js, HTML, CSS, JavaScript
+- **Frontend:** React.js, HTML, CSS, JavaScript, Bootstrap, Tailwind Css
 - **Backend:** Node.js, Express.js
-- **Database:** MongoDB
+- **Database:** MongoDB, Mongoose
 - **Version Control:** Git, GitHub
-- **Deployment:** Heroku, Netlify
-- **Other:** RESTful APIs, Postman, Redux
+- **Deployment:** Heroku, Netlify, Vercel
+- **Other:** RESTful APIs, Postman, Redux, Redux Toolkit
 
 ## 💻 My Tech Stack:
 
